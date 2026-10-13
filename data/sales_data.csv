@@ -1,0 +1,49 @@
+Date,Branch,Month,Week,Category,Product,Quantity,Price,Sales
+2024-01-03,Colombo,January,W1,Beverages,Coca Cola 1L,120,450,54000
+2024-01-04,Colombo,January,W1,Bakery,Bread Loaf,200,180,36000
+2024-01-05,Colombo,January,W1,Dairy,Fresh Milk 1L,150,320,48000
+2024-01-06,Colombo,January,W1,Electronics,LED Bulb Pack,40,1200,48000
+2024-01-08,Kandy,January,W2,Beverages,Orange Juice 1L,90,520,46800
+2024-01-09,Kandy,January,W2,Bakery,Buns Pack,180,220,39600
+2024-01-10,Kandy,January,W2,Dairy,Yoghurt Cup,220,150,33000
+2024-01-11,Kandy,January,W2,Electronics,Extension Cord,35,1500,52500
+2024-01-12,Galle,January,W2,Beverages,Iced Tea Bottle,110,380,41800
+2024-01-13,Galle,January,W2,Bakery,Cake Slice,140,250,35000
+2024-01-14,Galle,January,W2,Dairy,Cheese Block,60,950,57000
+2024-01-15,Galle,January,W3,Electronics,Table Fan,25,4500,112500
+2024-01-16,Colombo,January,W3,Beverages,Water Bottle 5L,160,600,96000
+2024-01-17,Colombo,January,W3,Bakery,Roll Pack,190,200,38000
+2024-01-18,Colombo,January,W3,Dairy,Butter 250g,80,850,68000
+2024-01-19,Colombo,January,W3,Electronics,Iron Box,30,5200,156000
+2024-01-22,Kandy,January,W4,Beverages,Mango Juice,100,480,48000
+2024-01-23,Kandy,January,W4,Bakery,Doughnut Pack,170,240,40800
+2024-01-24,Kandy,January,W4,Dairy,Ice Cream 1L,95,1200,114000
+2024-01-25,Kandy,January,W4,Electronics,Kettle,28,4800,134400
+2024-01-26,Galle,January,W4,Beverages,Lime Juice,105,400,42000
+2024-01-27,Galle,January,W4,Bakery,Croissant,130,280,36400
+2024-01-28,Galle,January,W4,Dairy,Curd Pot,150,350,52500
+2024-01-29,Galle,January,W4,Electronics,Rice Cooker,22,6500,143000
+2024-02-02,Colombo,February,W1,Beverages,Pepsi 1L,130,440,57200
+2024-02-03,Colombo,February,W1,Bakery,Baguette,210,190,39900
+2024-02-04,Colombo,February,W1,Dairy,Milk Powder 400g,120,1450,174000
+2024-02-05,Colombo,February,W1,Electronics,LED Tube,45,1100,49500
+2024-02-06,Kandy,February,W2,Beverages,Apple Juice,95,550,52250
+2024-02-07,Kandy,February,W2,Bakery,Pizza Base,160,300,48000
+2024-02-08,Kandy,February,W2,Dairy,Ghee 500ml,70,1800,126000
+2024-02-09,Kandy,February,W2,Electronics,Ceiling Fan,20,7500,150000
+2024-02-10,Galle,February,W2,Beverages,Coconut Water,140,350,49000
+2024-02-11,Galle,February,W2,Bakery,Muffin Pack,150,260,39000
+2024-02-12,Galle,February,W2,Dairy,Flavoured Milk,180,200,36000
+2024-02-13,Galle,February,W3,Electronics,Blender,26,5800,150800
+2024-02-14,Colombo,February,W3,Beverages,Orange Cordial,115,700,80500
+2024-02-15,Colombo,February,W3,Bakery,Sandwich Loaf,205,210,43050
+2024-02-16,Colombo,February,W3,Dairy,Cheese Spread,75,1100,82500
+2024-02-17,Colombo,February,W3,Electronics,Microwave Oven,12,18500,222000
+2024-02-19,Kandy,February,W4,Beverages,Ginger Beer,108,420,45360
+2024-02-20,Kandy,February,W4,Bakery,Cupcake Box,165,270,44550
+2024-02-21,Kandy,February,W4,Dairy,Set Yoghurt Pack,200,180,36000
+2024-02-22,Kandy,February,W4,Electronics,Water Heater,15,9500,142500
+2024-02-23,Galle,February,W4,Beverages,Energy Drink,125,500,62500
+2024-02-24,Galle,February,W4,Bakery,Swiss Roll,145,290,42050
+2024-02-25,Galle,February,W4,Dairy,Paneer 200g,65,1250,81250
+2024-02-26,Galle,February,W4,Electronics,Air Fryer,18,14500,261000
